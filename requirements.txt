@@ -156,7 +156,6 @@ pynrrd==1.0.0
 pyparsing==3.0.8
 Pyro4==4.82
 pyrsistent==0.18.1
-pyshearlab @ file:///C:/Users/padal/Desktop/matlab2python/pyshearlab
 pytest==7.2.1
 python-dateutil==2.8.2
 python-decouple==3.5
